@@ -6,7 +6,7 @@
     "revision": "0",
     "image": "flecs.azurecr.io/com.hivemq.hivemq4",
     "multiInstance": false,
-    "editor": ":8080",
+    "editor": ":7080",
     "ports": [
         "1883:1883",
         "8000:8000",
